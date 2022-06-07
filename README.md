@@ -22,3 +22,7 @@
 
 - search for a user/blog/subscription by memcmp
 - get a user/blog/subscription by known key (PDA)
+
+## To run
+
+`anchor test`
